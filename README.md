@@ -3,9 +3,10 @@
 This Repository will contain the functions that will help you in Evaluating yout model's perfromance.
 
 1. My First file is
-"Performance Parameter for Binary Classification"
+"Performance Parameter for Binary Classification" 
 
-This include three functions
+This include three functions:
+
 Function1: get_best_threshold_using_ROC(y_test,y_pred_prob)
            which is used to get best threshold value for your Binary Classification model using ROC Curve.
        
