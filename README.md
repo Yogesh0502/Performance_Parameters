@@ -15,5 +15,6 @@ Function2: get_best_threshold_from_PRcurve(y_test,y_pred_prob):
            
 Function3: get_different_metric_using_new_threshold(y_test,y_pred_prob,thres):
    It is used to get Model performance parameter like Accuracy ,F1 score, Precision, recall and Confuion matrix for a given threshold.
-   
-   
+ 
+Refernces: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
+https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/
